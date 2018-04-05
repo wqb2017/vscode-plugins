@@ -57,7 +57,7 @@
   "prettier.eslintIntegration": true,
   "prettier.jsxBracketSameLine": true,
   "prettier.printWidth": 120,
-  "prettier.semi": false,
+  "prettier.semi": true,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "all",
   "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
