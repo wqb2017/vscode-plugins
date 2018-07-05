@@ -1,4 +1,3 @@
-```js
 {
   "editor.cursorBlinking": "smooth",
   "editor.cursorWidth": 2,
@@ -115,5 +114,3 @@
   "px2rem.rootFontSize": 18.75,
   "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?"
 }
-
-```
