@@ -111,6 +111,7 @@
   ],
   "powermode.enabled": true,
   "powermode.presets": "flames",
-  "px2rem.rootFontSize": 18.75,
-  "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?"
+  "px2rem.rootFontSize": 37.5,
+  "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
