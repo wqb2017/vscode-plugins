@@ -7,3 +7,7 @@
 ## vscode 配置
 
 路径：C:\Users\DELL\.vscode
+
+## 规范
+
+[eslint standard](https://github.com/standard/standard/blob/master/docs/README-zhcn.md) 
